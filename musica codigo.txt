@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+         <title> Musica </title>
+</head>
+<body>
+        
+
+<h1> All about music </h>
+<h2> Escucha la mejor música con nosotros </h2>
+<p> Empieza aquí: </p>
+<p> Vista <a href= “www.spotify.com”> este enlace </a> es para acceder a las mejores playlist </p>
+
+</body>
+</html>

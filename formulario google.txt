@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head>
+	<title>Encuesta Google</title>
+</head>
+<body>
+	<h1>Encuesta de Satisfacción<h1>
+	<iframe
+	src="https://docs.google.com/forms/d/e/1FAIpQLSeNLMsE4jVJ1zRsPRd-5o9e_CnZef0HbzvVJ0i8q2sKRnbnsw/viewform?usp=sf_link"  width="640" height="670" frameborder="0" marginheight="0" marginwidth="0">Cargando...
+</iframe>
+</body>
+</html>

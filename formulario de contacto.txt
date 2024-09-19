@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title> 1er. Formulario </title>
+ 
+</heat>
+<body>
+
+<h1> Formulario de contacto </h1>
+<form action= “/submit - form” method - “post”>
+<label for= “ name” > Nombre : </label><br>
+<input type= “text” id= “name” name=“name” required> <br><br>
+
+<label for= “ apellido” > Apellido : </label><br>
+<input type= “text” id= “apellido” apellido=“apellido” required> <br><br>
+
+<label for= “ edad” > Edad : </label><br>
+<input type= “text” id= “edad” edad=“edad” required> <br><br>
+
+<label for= “ mail” > Correo : </label><br>
+<input type= “text” id= “correo” corre=“correo” required> <br><br>
+
+<label for= “ ciudad” > Ciudad : </label><br>
+<input type= “text” id= “cuidad” ciudad=“name” required> <br><br>
+
+<label for= “codigo postal” > Codigo postal : </label><br>
+<input type= “text” id= “código postal” código postal=“código postal” required> <br><br>
+
+</form>
+</body>
+</html>
